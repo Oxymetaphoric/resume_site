@@ -65,6 +65,10 @@ header {
   font-size: 0;
 }
 
+#nav {
+  margin: 0;
+}
+
 #nav li {
   font-size: 14px;
   padding: 10;
@@ -98,4 +102,11 @@ header {
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
+}
+
+/* ======================HOVER.CSS======================== */
+
+.hvr-sweep-to-bottom:before {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 120px;
 }
