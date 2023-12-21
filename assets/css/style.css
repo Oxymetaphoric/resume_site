@@ -276,6 +276,11 @@ footer {
 
 /* ======================MY SKILLS======================== */
 
+.my-skills-icon {
+  font-size: 26px;
+  color: #9b59b6;
+}
+
 .progress {
   position: relative;
   height: 25px;
@@ -293,6 +298,10 @@ footer {
 
 .progress-section {
   margin: 40px 40px 20px 20px;
+}
+
+i {
+  color: #9b59b6;
 }
 
 /* ======================WORK HISTORY======================== */
@@ -362,7 +371,7 @@ button[type="submit"] {
   margin-top: 15px;
   margin-bottom: 20px;
   color: #fafafa;
-  background-color: #e84610;
+  background-color: #3498db;
 }
 
 /* ======================MEDIA QUERIES======================== */
